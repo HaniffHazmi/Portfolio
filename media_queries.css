@@ -1,0 +1,10 @@
+@media screen and (max-width: 1200px) {
+  /* Navbar for desktiop will disappear in smaller screen */
+  .desktop__nav {
+    display: none;
+  }
+
+  #hamburger__nav {
+    display: flex;
+  }
+}
